@@ -1,0 +1,39 @@
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+body {
+    font-family: $normal;
+    font-size: 1.6rem;
+    background-color: $bgcolor;
+    color: $white;
+}
+
+p {
+    font-size: 2rem;
+}
+.container {
+    width: 95%;
+    margin: 0 auto;
+}
+img {
+    max-width: 100%;
+}
+ul {
+    text-decoration: none;
+    margin: 0;
+}
+li {
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    font-family: $titles;
+}
