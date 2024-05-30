@@ -23,16 +23,16 @@ The languages I use the most are Java, JavaScript, Typescript, and Python as my 
 
 ## Know me more
 
--   🔭 I’m currently working in an [Exams App](https://github.com/ArmandoAlmanza/exams-app)
+-   🔭 I’m currently working in an [Exams App](https://github.com/ArmandoAlmanza/machabooks)
 
--   🌱 I’m currently learning Go and Angular
+-   🌱 I’m currently learning Angular
 
 -   📫 You can reach me armando.s.almanza@gmail.com
 
 -   💼 I'm currently working at Coca Cola CPS Mexico
 
 <div align="center">
-<img src="https://media.giphy.com/media/VFHa3Kg39gFLVbinN1/giphy.gif" align="center" height="250" width="200" />
+<img src="https://media.giphy.com/media/VFHa3Kg39gFLVbinN1/giphy.gif" align="center" height="250" width="300" />
 </div>
 
 <br/>
