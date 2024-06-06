@@ -80,5 +80,5 @@ The languages I use the most are Java, JavaScript, Typescript, and Python as my 
 <br/>
 <br/>
 
-<div align="center" height="150"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22kabs4tmkz2psqbc4sgylrmq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=93ff8f&bar_color_cover=true" /></div>
+<div align="center" height="150"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22kabs4tmkz2psqbc4sgylrmq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /></div>
 <br/>
